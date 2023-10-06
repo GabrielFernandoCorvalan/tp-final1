@@ -22,8 +22,8 @@ export const dataCounter = [
   },
   {
     id: 3,
-    endCounter: 0,
-    text: "Premios ganadores",
+    endCounter: 4,
+    text: "Lenguajes Aprendidos",
     lineRight: false,
     lineRightMobile: false,
   },
