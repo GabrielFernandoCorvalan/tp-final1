@@ -29,7 +29,7 @@ export function Introduction() {
 
                         <div className="flex flex-col items-center gap-3 md:gap-10 md:flex-row">
                             
-                            <a href="/Contact" className="px-6 py-3 my-2 transition-all border-2 cursor-pointer text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary">
+                            <a href="https://api.whatsapp.com/send?phone=543417207561" className="px-6 py-3 my-2 transition-all border-2 cursor-pointer text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary">
                                 Contacta conmigo
                             </a>
                         </div>
