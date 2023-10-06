@@ -60,6 +60,10 @@ export const dataAboutSkills = [
         title: "Curso Frontend UTN",
         date: "2023-2023",
       },
+      {
+        title: " Aprendizaje autónomo",
+        date: "2021-2023",
+      },
      
     ],
   },
